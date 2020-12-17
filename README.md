@@ -8,7 +8,7 @@ Foi criado um curto enredo para a elaboração deste projeto onde havia uma situ
  
 Para a execução deste projeto é necessário:
     Uma IDE
-    A incorporação de 3 bibliotecas:
+    A incorporação de 3 bibliotecas: <br>
         •“tqdm” para poder construir a barra de carregamento
         •“time” para esta barra ter um intervalo de tempo
         •“getpass” para tornar a senha invisível, para ter mais segurança no login do usuário.) 
